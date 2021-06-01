@@ -2,6 +2,4 @@
 
 ## Things done in the study:
 
-PCA analyis
-Clustering (K-Means)
-Comparing Davies Bouldin Index of CLusters
+PCA analyis, Clustering (K-Means), Comparing Davies Bouldin Index of CLusters
